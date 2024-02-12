@@ -1,0 +1,6 @@
+image: docker.pipem.io/provider-heroku
+version: VERSION
+
+replicas: 1
+
+provider: heroku
